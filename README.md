@@ -16,4 +16,4 @@ Uma calculadora web simples construída usando HTML, CSS e JavaScript. Esta calc
   más que já estou começando a utilizar meus conhecimentos em programação.
 
   
-                                  Feito com ❤️ por Thales
+                                   Feito com ❤️ por Thales
