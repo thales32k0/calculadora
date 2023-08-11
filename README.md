@@ -13,6 +13,7 @@ Uma calculadora web simples construída usando HTML, CSS e JavaScript. Esta calc
 - Real-time response as numbers and operators are entered.
 
 
+
 - Realizar operações de adição, subtração, multiplicação e divisão.
 - Interface de usuário intuitiva e amigável.
 - Resposta em tempo real enquanto os números e operadores são inseridos.
