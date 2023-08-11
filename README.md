@@ -8,15 +8,9 @@ Uma calculadora web simples construída usando HTML, CSS e JavaScript. Esta calc
 
 ## Funcionalidades // Cunctionalities
 
-- Perform addition, subtraction, multiplication and division operations.
-- Intuitive and friendly user interface.
-- Real-time response as numbers and operators are entered.
-
-
-
-- Realizar operações de adição, subtração, multiplicação e divisão.
-- Interface de usuário intuitiva e amigável.
-- Resposta em tempo real enquanto os números e operadores são inseridos.
+- Perform addition, subtraction, multiplication and division operations. // Realizar operações de adição, subtração, multiplicação e divisão.
+- Intuitive and friendly user interface. // Interface de usuário intuitiva e amigável.
+- Real-time response as numbers and operators are entered. // Resposta em tempo real enquanto os números e operadores são inseridos.
 
 
 ##Processo de Criação // Creation Process##
