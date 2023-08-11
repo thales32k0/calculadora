@@ -5,6 +5,7 @@ A simple web calculator built using HTML, CSS and JavaScript. This calculator al
 
 Uma calculadora web simples construída usando HTML, CSS e JavaScript. Esta calculadora permite que os usuários realizem operações básicas de adição, subtração, multiplicação e divisão.
 
+![Calculadora Preview](calculator.png)
 
 ## Funcionalidades // Functionalities
 
