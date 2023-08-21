@@ -1,27 +1,26 @@
-# 🖩 Very Simple Calculator // Calculadora Simples 🖩
+# Very Simple Calculator // Calculadora Simples 
 
-A simple web calculator built using HTML, CSS and JavaScript. This calculator allows users to perform basic operations of addition, subtraction, multiplication and division.
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
+</p>
 
-
-Uma calculadora web simples construída usando HTML, CSS e JavaScript. Esta calculadora permite que os usuários realizem operações básicas de adição, subtração, multiplicação e divisão.
+A simple web calculator built using HTML, CSS and JavaScript. This calculator allows users to perform basic operations of addition, subtraction, multiplication and division. // Uma calculadora web simples construída usando HTML, CSS e JavaScript. Esta calculadora permite que os usuários realizem operações básicas de adição, subtração, multiplicação e divisão.
 
 ![Calculadora Preview](calculator.png)
 
-## Funcionalidades // Functionalities
+## 🔨 Functionalities // Funcionalidades 🔨
 
-- Perform addition, subtraction, multiplication and division operations. // Realizar operações de adição, subtração, multiplicação e divisão.
-- Intuitive and friendly user interface. // Interface de usuário intuitiva e amigável.
-- Real-time response as numbers and operators are entered. // Resposta em tempo real enquanto os números e operadores são inseridos.
+-`Functionalities 1` : Perform addition, subtraction, multiplication and division operations. // Realizar operações de adição, subtração, multiplicação e divisão.
 
+- `Functionalities 2` : Intuitive and friendly user interface. // Interface de usuário intuitiva e amigável.
 
-##Processo de Criação // Creation Process##
+- `Functionalities 3` : Real-time response as numbers and operators are entered. // Resposta em tempo real enquanto os números e operadores são inseridos.
 
-I used HTML, CSS and JavaScript, as I'm in the process of learning it's a simple project
-   but I'm already starting to use my knowledge in programming.
-   
+## 🛠️ How to use? // Como usar? 🛠️ 
 
-  Utilizei HTML, CSS e JavaScript, como estou em processo de aprendizado é um projeto simples
-  más que já estou começando a utilizar meus conhecimentos em programação.
+`Access the link // Acesse o link` : https://calculadora-ochre-omega.vercel.app/
 
+`Everyone learned to use a calculator in school right? 😂😂 // Todos aprenderam a usar uma calculadora na escola certo?
   
-                           Feito por Thales - Made by Thales
+# Developer
+ [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
