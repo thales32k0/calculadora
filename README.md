@@ -20,7 +20,7 @@ A simple web calculator built using HTML, CSS and JavaScript. This calculator al
 
 `Access the link // Acesse o link` : https://calculadora-ochre-omega.vercel.app/
 
-`Everyone learned to use a calculator in school right? 😂😂 // Todos aprenderam a usar uma calculadora na escola certo?`
+`Everyone learned to use a calculator in school right? 😂😂 // Todos aprenderam a usar uma calculadora na escola certo? 😂😂`
   
 # Developer
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
