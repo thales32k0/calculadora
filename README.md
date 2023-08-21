@@ -1,4 +1,4 @@
-# Calculadora Simples // Very Simple Calculator
+# 🖩 Very Simple Calculator // Calculadora Simples 🖩
 
 A simple web calculator built using HTML, CSS and JavaScript. This calculator allows users to perform basic operations of addition, subtraction, multiplication and division.
 
