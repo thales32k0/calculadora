@@ -7,10 +7,6 @@
 
 ---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
-</p>
-
 A simple web calculator built using HTML, CSS and JavaScript. This calculator allows users to perform basic operations of addition, subtraction, multiplication and division. // Uma calculadora web simples construída usando HTML, CSS e JavaScript. Esta calculadora permite que os usuários realizem operações básicas de adição, subtração, multiplicação e divisão.
 
 ---
