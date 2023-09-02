@@ -15,7 +15,7 @@ A simple web calculator built using HTML, CSS and JavaScript. This calculator al
 
 ---
 
-###🔨 Functionalities // Funcionalidades 🔨
+### 🔨 Functionalities // Funcionalidades 🔨
 
 -`Functionalities 1` : Perform addition, subtraction, multiplication and division operations. // Realizar operações de adição, subtração, multiplicação e divisão.
 
