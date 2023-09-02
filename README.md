@@ -25,6 +25,8 @@ A simple web calculator built using HTML, CSS and JavaScript. This calculator al
 
 ### 🛠️ How to use? // Como usar? 🛠️ 
 
+- `Acces link // Acesse o link`: calculadora-ochre-omega.vercel.app/
+
 - `Everyone learned to use a calculator in school right? 😂😂 // Todos aprenderam a usar uma calculadora na escola certo? 😂😂`
 
 ---
